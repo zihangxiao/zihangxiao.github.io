@@ -12,14 +12,14 @@
     - title: Bachelor's Degree
       institution: University of California, Santa Barbara
       year: 2021-2025
-      description:
-        - GPA: 3.93/4.00.
-        - Major: Computational Neuroscience.
+      GPA: 3.93/4.00.
+      Major: Computational Neuroscience.
+        
 - title: Experience
   type: time_table
   contents:
-    - title: SURF Undergraduate Researcher
-      institution: California Institute of Technology | Betty Hong Lab
+    - title: SURF Undergraduate Researcher(Betty Hong Lab)
+      institution: California Institute of Technology
       year: 2023.6 - Now
       Description:
       
@@ -31,8 +31,8 @@
         - Created and performed different behavioral experiments combined with transgenic fruit flies to characterize ring neurons function in the navigation; 
           found a specific behavioral pattern change resulting from silencing ring neurons during fixation behavior with certain visual patterns.
     
-    - title: Undergraduate Research Assistant
-      institution: University of California, Santa Barbara | Sung Soo Kim Lab
+    - title: Undergraduate Research Assistant(Sung Soo Kim Lab)
+      institution: University of California, Santa Barbara
       year: 2021.9 - Now
       Description:
       
@@ -47,9 +47,12 @@
         
         -Utilized transgenic flies for elucidating neural mechanisms of behavioral change after fruit flies’ odor experience.
 
-    - title: Undergraduate Research Assistant
-      institution: Zhejiang University | Xiao Dong Wang Lab
+    - title: Undergraduate Research Assistant(Xiao Dong Wang Lab)
+      institution: Zhejiang University
       year: 2021.6 - 2021.9
+      
+      Description:
+      
         -Constructed a Y-maze and its two-photo imaging parts to study the lateral entorhinal cortex (LEC) of mice and its relationship
         with anxiety.
         -Analyzed two-photon microscopy data from LEC of mice and its behavioral data in Y-maze using principal component analysis

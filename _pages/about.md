@@ -17,6 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm an undergraduate at UCSB studying Neuroscience, with an additional major in Computer Science and a minor in Music. I love neuroscience, both behavioral and computational part. My current research topic includes in understanding the temporal dynamic of a neuron using deep learning, and ODE simulation.
+Hi! I'm an undergraduate at UCSB studying Computational Neuroscience.
 
-In my spare time, I enjoy creating small coding projects and listen to jazz.
+My current research topic includes understanding the temporal dynamic of neurons and behavior using deep learning(New), ODE simulation(Classic), and virtual reality.
+
+I enjoy watching random cat YouTube videos, listening to jazz, and playing video games in my spare time.
+
